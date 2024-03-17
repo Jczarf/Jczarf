@@ -34,4 +34,3 @@
 ![Snake animation](https://github.com/Jczarf/Jczarf/blob/output/github-contribution-grid-snake.svg)
 
 
-
