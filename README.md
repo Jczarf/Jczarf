@@ -31,4 +31,4 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Jczarf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<div class="tenor-gif-embed" data-postid="21009539" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/enter-dev-developer-commit-git-gif-21009539">Enter Dev GIF</a>from <a href="https://tenor.com/search/enter-gifs">Enter GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
