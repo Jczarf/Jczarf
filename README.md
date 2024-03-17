@@ -30,3 +30,6 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jczarf&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Jczarf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+<div class="tenor-gif-embed" data-postid="13818761" data-share-method="host" data-aspect-ratio="0.717949" data-width="100%"><a href="https://tenor.com/view/kek-angry-code-matrix-gif-13818761">Kek Angry Sticker</a>from <a href="https://tenor.com/search/kek-stickers">Kek Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
