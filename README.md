@@ -25,7 +25,7 @@
 
 
 <div>
-<a href="https://github.com/jczarf">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?jczarf&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?jczarf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/Jczarf">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?Jczarf&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?Jczarf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
