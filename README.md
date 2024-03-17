@@ -12,7 +12,7 @@
 - 🤔 Estou procurando ajuda com vagas de emprego
 - 📫 Como entrar em contato comigo: jczarf.oliveira@gmail.com	
 - 😄 Pronomes: Ele/Dele	
-- ⚡ Curiosidade: Amo tecnologia.. 
+- ⚡ Curiosidade: Amo tecnologia, Animes, filmes de terror e filosofar nas horas vagas... 
 
 
 ## Contatos:
@@ -26,6 +26,6 @@
 
 <div>
 <a href="https://github.com/Jczarf">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?Jczarf&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?Jczarf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jczarf&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Jczarf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
