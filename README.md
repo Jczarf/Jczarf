@@ -35,8 +35,10 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,vscode,github" alt="Skills" />
 </div>
-
 <br/>
+<div align="center">
+  <img src="./assets/gifhacking.gif" alt="Motivational GIF" width="480" height="270"/>
+</div>
 <hr/>
 
 <h2 align="center">🐍 Minhas Contribuições 🐍</h2>
@@ -62,5 +64,5 @@
 <h2 align="center">🔥 Motivação diária 🔥</h2>
 <br/>
 <div align="center">
-  <img src="./assets/gifhacking.gif" alt="Motivational GIF" width="480" height="270"/>
+  <img src="./assets/sistemasolar.webp" alt="Motivational GIF" width="480" height="270"/>
 </div>
