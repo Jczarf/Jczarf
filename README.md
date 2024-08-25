@@ -52,7 +52,7 @@
         <br/>
         <strong>Certificado Git|Git-hub</strong>
       </td>
-      <td align="center">
+      <!-- <td align="center">
         <a href="https://github.com/Jczarf/Certificados/blob/main/certificado2.pdf" target="_blank">
           <img src="https://via.placeholder.com/200" alt="Certificado CSS" width="200px" />
         </a>
@@ -65,7 +65,7 @@
         </a>
         <br/>
         <strong>JavaScript para Web</strong>
-      </td>
+      </td> -->
     </tr>
   </table>
 </div>
