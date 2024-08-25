@@ -62,5 +62,5 @@
 <h2 align="center">🔥 Motivação diária 🔥</h2>
 <br/>
 <div align="center">
-  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" alt="Motivational GIF" width="480" height="270"/>
+  <img src="./assets/gifhacking.gif" alt="Motivational GIF" width="480" height="270"/>
 </div>
