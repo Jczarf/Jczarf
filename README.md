@@ -52,20 +52,6 @@
         <br/>
         <strong>Certificado Git|Git-hub</strong>
       </td>
-      <!-- <td align="center">
-        <a href="https://github.com/Jczarf/Certificados/blob/main/certificado2.pdf" target="_blank">
-          <img src="https://via.placeholder.com/200" alt="Certificado CSS" width="200px" />
-        </a>
-        <br/>
-        <strong>CSS Essencial</strong>
-      </td>
-      <td align="center">
-        <a href="https://github.com/Jczarf/Certificados/blob/main/certificado3.pdf" target="_blank">
-          <img src="https://via.placeholder.com/200" alt="Certificado JS" width="200px" />
-        </a>
-        <br/>
-        <strong>JavaScript para Web</strong>
-      </td> -->
     </tr>
   </table>
 </div>
