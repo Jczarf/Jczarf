@@ -57,4 +57,17 @@
 <a href="https://github.com/Jczarf">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jczarf&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Jczarf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+# Minhas Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github.com/Jczarf/github-stats-card.png)
+
+- **Total de Estrelas:** 71.5k
+- **Total de Commits (2024):** 134
+- **Total de PRs:** 780
+- **Total de Issues:** 179
+- **Contribuiu para (último ano):** 3
+- **Classificação:** A+
+
+
 </div>
