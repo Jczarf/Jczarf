@@ -39,7 +39,39 @@
 <div align="center">
   <img src="./assets/gifhacking.gif" alt="Motivational GIF" width="480" height="270"/>
 </div>
+
+## 🏅 Meus Certificados
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Jczarf/Certificados/blob/main/certificado.jpeg" target="_blank">
+          <img src="https://github.com/Jczarf/Certificados/blob/main/certificado.jpeg" alt="Certificado" width="200px" />
+        </a>
+        <br/>
+        <strong>Certificado Git|Git-hub</strong>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Jczarf/Certificados/blob/main/certificado2.pdf" target="_blank">
+          <img src="https://via.placeholder.com/200" alt="Certificado CSS" width="200px" />
+        </a>
+        <br/>
+        <strong>CSS Essencial</strong>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Jczarf/Certificados/blob/main/certificado3.pdf" target="_blank">
+          <img src="https://via.placeholder.com/200" alt="Certificado JS" width="200px" />
+        </a>
+        <br/>
+        <strong>JavaScript para Web</strong>
+      </td>
+    </tr>
+  </table>
+</div>
+
 <hr/>
+
 
 <h2 align="center">🐍 Minhas Contribuições 🐍</h2>
 <br/>
@@ -63,6 +95,10 @@
 
 <h2 align="center">🔥 Motivação diária 🔥</h2>
 <br/>
+
+>"Não importa o caminho você deve sempre seguir em frente"
+>> - Júlio Cézar
+
 <div align="center">
   <img src="./assets/sistemasolar.webp" alt="Motivational GIF" width="480" height="270"/>
 </div>
