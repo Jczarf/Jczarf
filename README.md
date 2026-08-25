@@ -1,90 +1,39 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+seja+bem-vindo!;Sou+J%C3%BAlio+C%C3%A9zar%2C+prazer!+%F0%9F%91%8B" alt="Typing SVG" />
-  </a>
-</h1>
+# Olá, eu sou Júlio Cézar 👋
 
-<h3 align="center">👨‍💻 Um entusiasta de tecnologia e amante da inovação.</h3>
+Estudante de **Ciência da Computação** e formado como **Técnico em Desenvolvimento de Sistemas**.
 
-<br/>
+Tenho interesse em **suporte técnico, desenvolvimento de software e infraestrutura**, com experiência prática adquirida em projetos próprios envolvendo **Linux, VPS, Docker, Git e GitHub**.
 
-<div align="center">
-  🌱 Atualmente aprendendo: <strong>HTML, CSS, JavaScript, React</strong>  
-  <br/><br/>
-  ⚡ Fatos curiosos: <strong>Amo filmes de terror, tecnologia, animes e treinar.</strong>
-</div>
+Também utilizo **LLMs, agentes de programação e ambientes de desenvolvimento assistidos por IA** ao longo do ciclo de desenvolvimento, incluindo planejamento, implementação, revisão de código, documentação, testes e investigação de falhas.
 
-<br/>
+## 🛠 Tecnologias e ferramentas
 
-<div align="center"> 
-  <a href="mailto:Jczarf.oliveira@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/Júliocf" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Jczarf" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
+**Ambientes e infraestrutura**
 
-<hr/>
+`Linux` `Docker` `VPS`
 
-<h2 align="center">⚒️ Ferramentas de Programação ⚒️</h2>
-<br/>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,vscode,github" alt="Skills" />
-</div>
-<br/>
-<div align="center">
-  <img src="./assets/gifhacking.gif" alt="Motivational GIF" width="480" height="270"/>
-</div>
+**Desenvolvimento**
 
-## 🏅 Meus Certificados
+`Git` `GitHub` `C` `JavaScript` `TypeScript`
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/Jczarf/Certificados/blob/main/certificado.jpeg" target="_blank">
-          <img src="https://github.com/Jczarf/Certificados/blob/main/certificado.jpeg" alt="Certificado" width="200px" />
-        </a>
-        <br/>
-        <strong>Certificado Git|Git-hub</strong>
-      </td>
-    </tr>
-  </table>
-</div>
+**IA aplicada ao desenvolvimento**
 
-<hr/>
+LLMs • agentes de programação • IDEs com IA • análise e revisão de código • testes • documentação
 
+## 🚀 Projetos
 
-<h2 align="center">🐍 Minhas Contribuições 🐍</h2>
-<br/>
-<div align="center">
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-</div>
+Estou atualmente organizando meus projetos para portfólio.
 
-<br/>
-<hr/>
+Entre eles:
 
-<h2 align="center">⚡ Status ⚡</h2>
-<br/>
-<div align="center">
-  <a href="https://github.com/Jczarf">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jczarf&layout=compact&langs_count=7&theme=dracula&locale=pt-br" alt="Linguagens mais usadas" />
-  </a>
-</div>
-</div>
+- Sistema de gestão residencial
+- Projetos acadêmicos em C
+- Experimentos e projetos de desenvolvimento de software
 
-<hr/>
+## 📚 Atualmente
 
-<h2 align="center">🔥 Motivação diária 🔥</h2>
-<br/>
+Aprofundando meus conhecimentos em desenvolvimento de software, Linux, containers, segurança e boas práticas de engenharia de software.
 
->"Não importa o caminho você deve sempre seguir em frente"
->> - Júlio Cézar
+## 📫 Contato
 
-<div align="center">
-  <img src="./assets/sistemasolar.webp" alt="Motivational GIF" width="480" height="270"/>
-</div>
+[LinkedIn](https://www.linkedin.com/in/j%C3%BAlio-c%C3%A9zar-0a26152b2/)
