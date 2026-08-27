@@ -46,6 +46,18 @@ Minha experiência prática vem principalmente de **projetos acadêmicos, estudo
 
 > Essas tecnologias representam ferramentas com as quais já tive contato em estudos ou projetos. Continuo aprofundando meus conhecimentos e fundamentos em cada uma delas.
 
+## Projeto em destaque
+
+### 🎬 YouTube Downloader
+
+Aplicação desktop pessoal desenvolvida para organizar downloads de mídia, com interface gráfica e recursos de fila, histórico, listas, formatos e qualidade.
+
+`Python` · `PySide6 / Qt` · `yt-dlp` · `FFmpeg`
+
+O projeto tem sido usado como espaço de prática para **interfaces desktop, organização de código, tratamento de erros, concorrência, testes e integração com ferramentas externas**.
+
+> O repositório está em preparação para publicação. Quando a versão pública estiver disponível, o link será adicionado aqui.
+
 ## Projetos e prática
 
 ### 🎓 Projetos acadêmicos
