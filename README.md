@@ -46,7 +46,7 @@ Minha experiência prática vem principalmente de **projetos acadêmicos, estudo
 
 > Essas tecnologias representam ferramentas com as quais já tive contato em estudos ou projetos. Continuo aprofundando meus conhecimentos e fundamentos em cada uma delas.
 
-## Projeto em destaque
+## Projetos em destaque
 
 ### 🎬 YouTube Downloader
 
@@ -69,6 +69,46 @@ Aplicação desktop pessoal para organizar downloads de mídia, com interface gr
 O projeto tem sido usado como espaço de prática para **interfaces desktop, organização de código, tratamento de erros, concorrência, testes e integração com ferramentas externas**.
 
 > O repositório está em preparação para publicação. Quando a versão pública estiver disponível, o link será adicionado aqui.
+
+---
+
+### 🏠 Residencial Rosileide
+
+Projeto web de gestão residencial usado para centralizar **imóveis, locatários, contratos, cobranças, pagamentos e recibos** em uma única aplicação.
+
+`Next.js` · `React` · `TypeScript` · `Node.js` · `PostgreSQL` · `Docker`
+
+<p align="center">
+  <img src="./assets/residencial-rosileide-dashboard.webp" alt="Dashboard real e sanitizado do Residencial Rosileide" width="100%" />
+</p>
+
+<details>
+<summary><strong>Ver portal do locatário</strong></summary>
+<br />
+<p align="center">
+  <img src="./assets/residencial-rosileide-portal.webp" alt="Portal do locatário do Residencial Rosileide" width="100%" />
+</p>
+</details>
+
+O projeto tem sido uma forma de praticar **desenvolvimento web, integração entre frontend e backend, bancos de dados e organização de fluxos reais de uma aplicação**.
+
+> Projeto comercial com código-fonte e infraestrutura privados. As capturas usadas no perfil são reais e foram sanitizadas para não expor dados de locatários.
+
+---
+
+### 🖥️ J.A.R.V.I.S.
+
+Assistente desktop para Linux criado como projeto pessoal para praticar **Python, interfaces gráficas, integração com ferramentas locais do sistema e modelos de linguagem**.
+
+`Python` · `PySide6 / Qt` · `SQLite` · `Linux` · `Gemini`
+
+<p align="center">
+  <img src="./assets/jarvis-interface.webp" alt="Interface real do J.A.R.V.I.S. em execução no Linux" width="100%" />
+</p>
+
+O projeto tem sido usado para explorar **interfaces desktop, informações do sistema, ferramentas locais, persistência opcional em SQLite e integração com serviços externos**.
+
+> Projeto pessoal privado e em evolução. A imagem acima é uma captura real da interface em execução no Linux.
 
 ## Projetos e prática
 
