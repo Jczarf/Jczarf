@@ -50,9 +50,21 @@ Minha experiência prática vem principalmente de **projetos acadêmicos, estudo
 
 ### 🎬 YouTube Downloader
 
-Aplicação desktop pessoal desenvolvida para organizar downloads de mídia, com interface gráfica e recursos de fila, histórico, listas, formatos e qualidade.
+Aplicação desktop pessoal para organizar downloads de mídia, com interface gráfica, fila, histórico, listas, formatos, qualidade e recorte por intervalo.
 
 `Python` · `PySide6 / Qt` · `yt-dlp` · `FFmpeg`
+
+<p align="center">
+  <img src="./assets/youtube-downloader-ui.webp" alt="Interface real do YouTube Downloader" width="100%" />
+</p>
+
+<details>
+<summary><strong>Ver funcionamento na prática</strong></summary>
+<br />
+<p align="center">
+  <img src="./assets/youtube-downloader-output.webp" alt="YouTube Downloader ao lado da pasta com os arquivos gerados" width="100%" />
+</p>
+</details>
 
 O projeto tem sido usado como espaço de prática para **interfaces desktop, organização de código, tratamento de erros, concorrência, testes e integração com ferramentas externas**.
 
