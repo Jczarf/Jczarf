@@ -55,14 +55,14 @@ Aplicação desktop pessoal para organizar downloads de mídia, com interface gr
 `Python` · `PySide6 / Qt` · `yt-dlp` · `FFmpeg`
 
 <p align="center">
-   <img src="assets/youtube-downloader-ui.webp" alt="Interface real do YouTube Downloader" width="100%" />
+   <img src="assets/youtube-downloader-ui.png" alt="Interface real do YouTube Downloader" width="100%" />
 </p>
 
 <details>
 <summary><strong>Ver funcionamento na prática</strong></summary>
 <br />
 <p align="center">
-  <img src="assets/youtube-downloader-output.webp" alt="YouTube Downloader ao lado dos arquivos gerados em uma sessão real" width="100%" />
+  <img src="assets/youtube-downloader-output.png" alt="YouTube Downloader ao lado dos arquivos gerados em uma sessão real" width="100%" />
 </p>
 </details>
 
